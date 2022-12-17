@@ -6,3 +6,5 @@ Nous avons d'abord récolter les liens URLS
 
 Je me suis occupée de récolter les liens pour NOSTALGIE en FR, ainsi que SAUDADE en portugais.
 J'ai récolté 50 liens pour chacun des fichiers.
+
+Tous nos documents ont été ajoutés sur le GITHUB de notre projet.
